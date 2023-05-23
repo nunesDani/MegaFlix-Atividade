@@ -1,0 +1,40 @@
+.container2 {
+    background-color: #190330;
+    text-align: center;
+    height: 100vh;
+    margin: -10px;
+    width: auto;
+}
+
+.titulo{
+    padding-top: 60px;
+    font-size: 3em;
+    font-weight: bold;
+}
+
+
+.blocos1{
+    display: inline-flex;
+}
+
+.blocos2{
+    display: inline-flex;
+}
+
+.bloco{
+    background-color: #290944;
+    width: 500px;
+    height: auto;
+    border-radius: 10px;
+    margin: 30px;
+    
+}
+
+.blocoTitulo{
+    font-weight: bold;
+    font-size: 2em;
+}
+
+.blocoTxt{
+    font-size: 1.5em;
+}

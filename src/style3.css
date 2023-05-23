@@ -1,0 +1,19 @@
+.container3{
+    background-color: #A134E3;
+    height: auto;
+    margin: -10px;
+    justify-content: center;
+}
+
+.titulos{
+    margin-left: 32%
+}
+
+
+.filmeImg{
+    height: 300px;
+    display: inline-flex;
+    padding-top: 40px;
+    border-radius: 20px;
+    margin: 10px;
+}

@@ -22,7 +22,7 @@ li{
 h1{
     font-size: 50pt;
     padding-left: 80px;
-    padding-top: 80px;
+    padding-top: 60px;
 }
 
 
@@ -87,4 +87,8 @@ li:hover{
 
 .botao-planos{
     background-color: rgb(23, 23, 91);
+}
+
+.container1{
+    height: 600px;
 }
